@@ -1,0 +1,31 @@
+#card-icon1 {
+  font-size: 4.5rem;
+  color: rgb(247, 229, 132);
+}
+#card-icon2 {
+  font-size: 4.5rem;
+  color: rgb(117, 140, 175);
+}
+#card-icon3 {
+  font-size: 4.5rem;
+  color: bisque;
+}
+#map {
+  height: 400px;
+
+  width: 100%;
+}
+#contact-btn {
+  background: rgba(0, 0, 0, 0.2);
+  font-size: 1.4rem;
+  width: auto;
+  border-radius: 25px;
+  border: black solid;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  border-width: 0.1rem;
+}
+#contact-btn:hover{
+background: grey;
+}
